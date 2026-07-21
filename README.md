@@ -1,4 +1,4 @@
-<img width="2000" height="1117" alt="Joseph-Clauson-bit" src="https://github.com/user-attachments/assets/404d9c87-b6bb-4f53-af43-b191d909eb1d" />
+<img width="2000" height="1117" alt="Joseph-Clauson-Cool" src="https://github.com/user-attachments/assets/df088d83-cd6a-4e90-b572-8c461829dc1d" />
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="2000" height="1117" viewBox="0 0 985 570" font-size="16px">
 <rect width="985px" height="570px" fill="#ffffff" rx="15"/>
